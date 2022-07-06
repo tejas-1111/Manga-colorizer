@@ -1,0 +1,13 @@
+{
+	"window_sz": 4,
+	"init_dist": 1,
+	"init_value": 4,
+	"sigma": 1,
+	"F_A": 1,
+	"delta": 0,
+	"eps": 1,
+	"dt": 1,
+	"gradient_iterations": 100,
+	"integration_iterations": 100,
+	"width": 5
+}
